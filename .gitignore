@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
+
+# Trading state / temporary files
+paper_trading_state.json
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
